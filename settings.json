@@ -8,7 +8,7 @@
   "server": {
     "ip": "free4.vektalnodes.in",
     "port": 25500,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
