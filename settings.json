@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free4.vektalnodes.in:25500",
+    "ip": "free4.vektalnodes.in",
     "port": 25500,
     "version": "1.21.11"
   },
