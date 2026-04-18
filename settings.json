@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lifechor001.aternos.me",
-    "port": 36485,
-    "version": "1.21.1"
+    "ip": "free4.vektalnodes.in:25500",
+    "port": 25500,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
